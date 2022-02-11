@@ -41,7 +41,7 @@
 <br/>
 
 <h3> 📈 My Github Stats:</h3>
-    <a href="https://github.com/kavin-sewmina/github-readme-stats"><img alt="Kavin Sewmina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kavin-sewmina&show_icons=true&count_private=true&&hide_border=true" /></a>
+    <a href="https://github.com/kavin-sewmina/github-readme-stats"><img alt="Kavin Sewmina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kavin-sewmina&theme=vue&show_icons=true&count_private=true&&hide_border=false" /></a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
