@@ -37,16 +37,6 @@
     <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-illustrator.png" alt="illustrator"/></a>   
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<h3> 📈 My Github Stats:</h3>
-    <a href="https://github.com/kavin-sewmina/github-readme-stats"><img alt="Kavin Sewmina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kavin-sewmina&theme=vue&show_icons=true&count_private=true&&hide_border=false" /></a>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
 <h3>🚀 Connect with me:</h3>
 <p>
 <a href = "https://www.linkedin.com/in/kavinsewmina/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
