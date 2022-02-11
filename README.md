@@ -18,7 +18,7 @@
 
 </br>
 
-<h3>🚀 Languages and Tools:</h3>
+<h3><b>Languages and Tools:</b></h3>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> </a>
@@ -36,8 +36,8 @@
     <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-xd.png" alt="xd"/></a> 
     <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-illustrator.png" alt="illustrator"/></a>   
 </p>
-
-<h3>🚀 Connect with me:</h3>
+</br>
+<h3><b>Connect with me:</b></h3>
 <p>
 <a href = "https://www.linkedin.com/in/kavinsewmina/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kavinsewmina"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>
