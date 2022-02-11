@@ -10,8 +10,6 @@
 ```php
 <?php
 
-namespace AshBaker;
-
 class About extends Me
 {
     public function getMyDetails(): array
@@ -24,15 +22,14 @@ class About extends Me
         ];
     }
 
-    public function getPassion(): string
+    public function getMyPassion(): string
     {
-        return 'My passion for software is inventing new concepts and bringing them to life through beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.';
+        return 'My passion for software is inventing new concepts and bringing them to life through beautiful interfaces'.;
     }
 }
 ```
 
-- 💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
-
+💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
 
 
 <h4>Languages and Tools:</h4>
