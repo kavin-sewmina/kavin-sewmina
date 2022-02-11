@@ -7,12 +7,29 @@
 <a href="https://github.com/kavin-sewmina?tab=followers">
 <img src="https://img.shields.io/github/followers/kavin-sewmina?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p>Hello, my name is Kavin Sewmina, and I'm an undergraduate at Staffordshire University, UK. My passion for software is inventing new concepts and bringing them to life through beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.</p>
+```php
+<?php
 
+namespace AshBaker;
 
-- 🌱 I’m currently learning **Android Development**
+class About extends Me
+{
+    public function getMyDetails(): array
+    {
+        return [
+            'myDetails' => [
+                'name' => 'Kavin Sewmina',
+                'status' => 'Undergraduate'         
+            ]
+        ];
+    }
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+    public function getPassion(): string
+    {
+        return 'My passion for software is inventing new concepts and bringing them to life through beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.';
+    }
+}
+```
 
 - 💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
 
@@ -22,10 +39,11 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/35/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/30/000000/python.png"/> </a> 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" height="30"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/css3.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="php"  height="34"/> </a>  
+    <a href="https://www.php.net/" target="_blank"> <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="php"  height="30"/> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/30/000000/javascript.png"/> </a>  
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> </a> 
