@@ -27,9 +27,6 @@ class About extends Me
 ?>
 ```
 
-💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
-
-
 <h4>Languages and Tools:</h4>
 
 <p align="left"> 
@@ -52,6 +49,7 @@ class About extends Me
 
 <h4>Connect with me:</h4>
 <p>
+<a href="mailto: kavinsewmina@gmail.com"><img src="https://img.icons8.com/fluency/30/000000/email-sign.png"/></a>
 <a href = "https://www.linkedin.com/in/kavinsewmina/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kavinsewmina"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kavinsewmina/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
