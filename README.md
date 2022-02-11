@@ -24,9 +24,11 @@ class About extends Me
 
     public function getMyPassion(): string
     {
-        return 'My passion for software is inventing new concepts and bringing them to life through beautiful interfaces'.;
+        return 'My passion for software is inventing new concepts and bringing them to life through beautiful interfaces.';
     }
 }
+
+?>
 ```
 
 💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
