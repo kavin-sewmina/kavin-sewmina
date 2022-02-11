@@ -1,14 +1,10 @@
-<h3>Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"></h3>
-
-
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=kavin-sewmina">
-</a>
-<a href="https://github.com/kavin-sewmina?tab=followers">
-<img src="https://img.shields.io/github/followers/kavin-sewmina?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=kavin-sewmina"></a>
+<a href="https://github.com/kavin-sewmina?tab=followers"><img src="https://img.shields.io/github/followers/kavin-sewmina?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ```php
 <?php
+
+echo 'Hi There';
 
 class About extends Me
 {
