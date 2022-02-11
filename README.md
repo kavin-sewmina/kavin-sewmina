@@ -14,35 +14,33 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything <a href="mailto: kavinsewmina@gmail.com">here</a>, I am happy to help;
 
 </br>
 
-## 🚀 Languages and Tools:
+<h3>🚀 Languages and Tools:</h3>
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/35/000000/python.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/css3.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="php"  height="39"/> </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/35/000000/javascript.png"/> </a>  
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/react-native.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/35/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/35/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a>   
-    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/35/000000/adobe-photoshop.png" alt="photoshop"/></a>
-    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/35/000000/adobe-xd.png" alt="xd"/></a> 
-    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/35/000000/adobe-illustrator.png" alt="illustrator"/></a>   
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/css3.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="php"  height="34"/> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/30/000000/javascript.png"/> </a>  
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/react-native.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/30/000000/mysql-logo.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>   
+    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-photoshop.png" alt="photoshop"/></a>
+    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-xd.png" alt="xd"/></a> 
+    <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/30/000000/adobe-illustrator.png" alt="illustrator"/></a>   
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## 📊 My Github Stats
-
-  <br/>
+<h3> 📈 My Github Stats:</h3>
     <a href="https://github.com/kavin-sewmina/github-readme-stats"><img alt="Kavin Sewmina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kavin-sewmina&show_icons=true&count_private=true&&hide_border=true" /></a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
